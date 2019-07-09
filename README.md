@@ -77,6 +77,7 @@ awesome list of [YARA-related stuff](https://github.com/InQuest/awesome-yara).
 * [Fox-IT](https://www.fox-it.com)
 * [FSF](https://github.com/EmersonElectricCo/fsf)
 * [Guidance Software](http://www.guidancesoftware.com/endpointsecurity)
+* [Google](https://google.com)
 * [Heroku](https://heroku.com)
 * [Hornetsecurity](https://www.hornetsecurity.com/en/)
 * [InQuest](http://www.inquest.net/)
